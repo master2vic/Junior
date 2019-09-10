@@ -38,7 +38,7 @@ handout 是讲义，是为了更好地制作PPT。是对团队上传材料的一
 
 ***强烈建议***：`完成环境为VScode` + `Github Desktop` + `git`
 
-监禁禁止`Ctrl c` 和 `Ctrl v`,文献要自己总结和归纳。
+强烈禁止`Ctrl c` 和 `Ctrl v`,文献要自己总结和归纳。
 
 **详情参考Sample文件夹**
 
