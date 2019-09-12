@@ -12,7 +12,7 @@
 
 | 周次 | 时间  | 科目 |            题目/主题             |                       负责人                       |
 | :--: | :---: | :--: | :------------------------------: | :------------------------------------------------: |
-|  5   | 10.7  |  cp  |             词法分析             |   [@SHI Yuanyou](https://github.com/master2vic)    |
+|  5   | 10.7  |  cp  |             [词法分析](https://github.com/master2vic/Junior/tree/master/CP/1.词法分析)             |   [@SHI Yuanyou](https://github.com/master2vic)    |
 |  6   | 10.16 |  os  |       操作系统设计相关⼯具       |     [@mengyueFeng](https://github.com/gru111)      |
 |  6   | 10.16 |  ai  |        AIMA Chapters 1-3         |    [@CynricFeng](https://github.com/CynricFeng)    |
 |  7   | 10.21 |  cp  |             语法分析             |       [@jjxsxxn](https://github.com/jjxsxxn)       |
@@ -57,7 +57,7 @@ handout 是讲义，是为了更好地制作PPT。是对团队上传材料的一
 
 ***强烈建议***：`完成环境为VScode` + `Github Desktop` + `git`
 
-监禁禁止`Ctrl c` 和 `Ctrl v`,文献要自己总结和归纳。
+强烈禁止`Ctrl c` 和 `Ctrl v`,文献要自己总结和归纳。
 
 **详情参考Sample文件夹**
 
