@@ -12,7 +12,7 @@
 
 | 周次 | 时间  | 科目 |            题目/主题             |                       负责人                       |
 | :--: | :---: | :--: | :------------------------------: | :------------------------------------------------: |
-|  5   | 10.7  |  cp  |             [词法分析](https://github.com/master2vic/Junior/tree/CP/1.词法分析)             |   [@SHI Yuanyou](https://github.com/master2vic)    |
+|  5   | 10.7  |  cp  |             [词法分析](https://github.com/master2vic/Junior/tree/master/CP/1.词法分析)             |   [@SHI Yuanyou](https://github.com/master2vic)    |
 |  6   | 10.16 |  os  |       操作系统设计相关⼯具       |     [@mengyueFeng](https://github.com/gru111)      |
 |  6   | 10.16 |  ai  |        AIMA Chapters 1-3         |    [@CynricFeng](https://github.com/CynricFeng)    |
 |  7   | 10.21 |  cp  |             语法分析             |       [@jjxsxxn](https://github.com/jjxsxxn)       |
