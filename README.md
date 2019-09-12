@@ -10,20 +10,22 @@
 
 ## 时间表
 
-| 周次 | 时间  | 科目 |            题目/主题             | 负责人 |
-| :--: | :---: | :--: | :------------------------------: | :----: |
-|  5   | 10.7  |  cp  |             词法分析             |        |
-|  6   | 10.16 |  os  |       操作系统设计相关⼯具       |        |
-|  6   | 10.16 |  ai  |        AIMA Chapters 1-3         |        |
-|  7   | 10.21 |  cp  |             语法分析             |        |
-|  8   | 10.30 |  os  |    使用系统调用编写用户态程序    |        |
-|  8   | 10.30 |  ai  |        AIMA Chapters 5-8         |        |
-|  10  | 11.13 |  os  | 商用操作系统和开源操作系统的讨论 |        |
-|  10  | 11.13 |  ai  |  AIMA Chapter 9 & 13 & 14 18-21  |        |
-|  11  | 11.18 |  cp  |      语义分析和中间代码生成      |        |
-|  12  | 11.27 |  os  |    操作系统设计的⾼级主题讨论    |        |
-|  12  | 11.27 |  ai  |     人工智能算法及其应用研讨     |        |
-|  13  | 12.2  |  cp  |     运行时环境和目标代码生成     |        |
+| 周次 | 时间  | 科目 |            题目/主题             |                       负责人                       |
+| :--: | :---: | :--: | :------------------------------: | :------------------------------------------------: |
+|  5   | 10.7  |  cp  |             词法分析             |   [@SHI Yuanyou](https://github.com/master2vic)    |
+|  6   | 10.16 |  os  |       操作系统设计相关⼯具       |     [@mengyueFeng](https://github.com/gru111)      |
+|  6   | 10.16 |  ai  |        AIMA Chapters 1-3         |    [@CynricFeng](https://github.com/CynricFeng)    |
+|  7   | 10.21 |  cp  |             语法分析             |       [@jjxsxxn](https://github.com/jjxsxxn)       |
+|  8   | 10.30 |  os  |    使用系统调用编写用户态程序    | [@LIANG-star177](https://github.com/LIANG-star177) |
+|  8   | 10.30 |  ai  |        AIMA Chapters 5-8         |     [@mengyueFeng](https://github.com/gru111)      |
+|  10  | 11.13 |  os  | 商用操作系统和开源操作系统的讨论 |    [@CynricFeng](https://github.com/CynricFeng)    |
+|  10  | 11.13 |  ai  |  AIMA Chapter 9 & 13 & 14 18-21  |       [@jjxsxxn](https://github.com/jjxsxxn)       |
+|  11  | 11.18 |  cp  |      语义分析和中间代码生成      |    [@CynricFeng](https://github.com/CynricFeng)    |
+|  12  | 11.27 |  os  |    操作系统设计的⾼级主题讨论    |   [@SHI Yuanyou](https://github.com/master2vic)    |
+|  12  | 11.27 |  ai  |     人工智能算法及其应用研讨     | [@LIANG-star177](https://github.com/LIANG-star177) |
+|  13  | 12.2  |  cp  |     运行时环境和目标代码生成     |     [@mengyueFeng](https://github.com/gru111)      |
+
+*备注： 具体题目可能会根据具体情况修改，每次负责人修改相关主题，添加超链接到具体的主项目的文件夹。*
 
 ## 操作流程
 
