@@ -100,4 +100,8 @@
 
 一个著名的图标可以直观的看到常见语言分类：
 
-![fenlei.png](../tasks/Task1/img/handout/fenlei.png)
+![分类](../tasks/Task1/img/handout/fenlei.jpg)
+
+大家有兴趣可以测试一些c++弱类型的点在哪里体现。
+
+### episode 3：分类方式
